@@ -1,0 +1,12 @@
+---
+title: 假期开始啦
+author: 胖虎
+date: '2019-04-30'
+slug: 假期开始啦
+categories:
+  - R
+tags:
+  - plot
+  - R Markdown
+  - regression
+---周二没课的我自动提前开启了五一假期，晚上的时候和室友一起看了电影绿皮书，好催眠看得我想睡觉
